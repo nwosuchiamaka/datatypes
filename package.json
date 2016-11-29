@@ -9,10 +9,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "amaka",
   "license": "ISC",
   "dependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
-  }
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwosuchiamaka/datatypes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nwosuchiamaka/datatypes/issues"
+  },
+  "homepage": "https://github.com/nwosuchiamaka/datatypes#readme"
 }
